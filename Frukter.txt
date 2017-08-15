@@ -5,3 +5,4 @@ Jordgubbe
 Ananas
 Apelsin
 Nektarin
+Kiwi
